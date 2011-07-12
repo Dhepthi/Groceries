@@ -1,3 +1,6 @@
+Getting started with Rails
+
+
 
 This pattern splits the view (also called the presentation) into "dumb"
 templates that are primarily responsible for inserting pre-built data in between
