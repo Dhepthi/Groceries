@@ -8,7 +8,7 @@ gem 'rails', '3.0.6'
 gem 'mysql'
 gem 'sqlite3-ruby'
 gem 'rcov'
-gem 'cover_me', '>= 1.0.0.rc6', :group => :test
+# gem 'cover_me', '>= 1.0.0.rc6', :group => :test
 
 # Use unicorn as the web server
 # gem 'unicorn'
